@@ -8,7 +8,7 @@
 
 # 💡__Téléchargement__ 
 
-- [TP100](https://github.com/cole100st/Teste-/releases/tag/100STConnect)
+- [TP100](https://github.com/cole100st/TP100/releases/tag/TP100)
 
 # 💻__Installation__
 
